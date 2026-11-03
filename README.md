@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Olá, eu sou o Edu. Bem Vindo ao meu Git Hub! 🕹️
 
 🎯 **Desenvolvedor formado em Jogos Digitais pela FATEC-CARAPICUIBA** apaixonada por tecnologia, games e soluções criativas.  
@@ -39,3 +40,6 @@ Apaixonado por tecnologia, educação, jógos eletronicos e games em geral.
 - Whatssap - 9 5772-4266 <br/>
 - Gmail - alcantaradesouzae@gmail.com <br/>
 - Hotmail - theblack00747@hotmail.com <br/>
+=======
+Link: https://carloseduardo20261110-ship-it.github.io/Manga-
+>>>>>>> 74661632f4e2780e50cc2694fd701267d7a776ee
